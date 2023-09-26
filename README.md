@@ -21,10 +21,11 @@ Receive notification message whenever a new user joins or leaves the chat room.
 
 ## Usage
 
-## Install dependencies
+### Install dependencies
 npm install
 
-## Start the application
+### Start the application
 npm run dev
+Open your web browser and navigate to localhost:3000.
 
-## Open your web browser and navigate to localhost:3000.
+
